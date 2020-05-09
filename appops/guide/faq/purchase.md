@@ -3,3 +3,7 @@
 ## Google Play restore
 
 In most cases, follow the prompts that appear after clicking the purchase. If you still can't solve the problem, please send us an email.
+
+## Update Purchase.md
+
+Other ways to update to new Google Play Store
